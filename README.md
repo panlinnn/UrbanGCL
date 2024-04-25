@@ -2,7 +2,7 @@
 
 This repository contains the source code for our paper:
 
-《Spatial-Temporal Graph Contrastive Learning for Urban Traffic Flow Forecasting》
+《Rethinking Spatial-Temporal Contrastive Learning for Urban Traffic Flow Forecasting: Multi-Level Augmentation Framework》
 
 
 # Datasets
